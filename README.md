@@ -14,7 +14,7 @@ Currently looking for dev or dev-rel roles 😊.
 
 ### Skills
 - 🎨 Material Design and Tailwind
-- 👩🏽‍💻 React, Next and Flutter
+- 👩🏽‍💻 React, Next and Flutter Web
 - ☁️ Serverless (GCP, Supabase and Appwrite)
 - 💻 Go and Node
 - 🐘 Postgres
