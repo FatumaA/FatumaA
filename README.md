@@ -2,11 +2,11 @@ Hi 👋,  I'm Fatuma
 ==================
 
 
-Software Developer, FreeCodeCamp Author and Open Source Contributor
+Software Developer, FreeCodeCamp Author, and Open Source Contributor
 ----------------------------------------------
 
-I'm a front-end focussed developer moving towards full stack. I share what I learn and find intriguing via technical content.
-Currently looking for dev or dev-rel roles 😊.
+I'm a front-end-focused developer moving towards full-stack. I share what I learn and find intriguing via technical content.
+Currently looking for Dev or DevRel roles 😊.
 
 * ✉️  You can contact me at [fatuma@hijabicoder.dev](mailto:fatuma@hijabicoder.dev)
 * 🧠  I'm learning Go
@@ -15,7 +15,7 @@ Currently looking for dev or dev-rel roles 😊.
 ### Skills
 - 🎨 Material Design and Tailwind
 - 👩🏽‍💻 React, Next and Flutter Web
-- ☁️ Serverless (GCP, Supabase and Appwrite)
+- ☁️ Serverless (GCP and Supabase)
 - 💻 Go and Node
 - 🐘 Postgres
 
